@@ -1,5 +1,10 @@
 {
+  "modules": false,
   "plugins": {
-    "autoprefixer": true
+    "postcss-preset-env": {
+      "autoprefixer": {
+        "grid": true
+      }
+    }
   }
 }
