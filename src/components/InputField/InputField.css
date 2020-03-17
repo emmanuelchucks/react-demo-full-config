@@ -1,3 +1,5 @@
-.InputField::placeholder {
-  color: blue;
+.InputField {
+  ::placeholder {
+    color: blue;
+  }
 }

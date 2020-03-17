@@ -1,4 +1,4 @@
-# React Demo App - dull config
+# React Demo App - full config
 
 React app with full config for a high-quality large app.
 
