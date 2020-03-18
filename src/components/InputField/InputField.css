@@ -1,5 +1,7 @@
 .InputField {
-  ::placeholder {
-    color: blue;
-  }
+  display: block;
+}
+
+.InputField::placeholder {
+  color: blue;
 }
